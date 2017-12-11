@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -l
 
 virtualenvs=$(pwd)/.virtualenvs
 cd $(dirname ${0})
